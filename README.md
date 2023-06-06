@@ -21,7 +21,7 @@ Login Screen | SignUp Screen | Home Screen
 :----------:|:-------------:|:--------:
 <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/1.jpeg" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/2.jpeg" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/3.jpeg" width=300/>
 
-Detail Screen | Booking Screen | List Menu | History
+Detail Screen | Booking Screen | History | List Menu
 :----------:|:-------------:|:--------:|:--------:
-<img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/4.jpeg" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/6.jpeg" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/7.jpeg" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/8.jpeg" width=300/> |
+<img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/4.jpeg" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/6.jpeg" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/8.jpeg" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/7.jpeg" width=300/>
 

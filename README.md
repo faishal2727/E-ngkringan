@@ -18,11 +18,11 @@ adalah aplikasi pemesanan tempat angkringan secara online yang memungkinkan peng
 
 ## 📷 Screen Shots
 
-Login Screen | SignUp Screen | Home Screen
+Login Screen | SignUp Screen | Home Screen | Detail Screen
 :----------:|:-------------:|:--------:
-<img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/1.jpeg" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/2.jpeg" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/3.jpeg" width=300/>
+<img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/Login%20Screen.png" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/SignUp%20Screen.png" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/Home%20Screen.png" width=300/>  | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/Detail%20Screen.png" width=300/>
 
-Detail Screen | Booking Screen | History | List Menu
+List-Menu Screen | Booking Screen | Detail-Transaction Screen | History-Transaction Screen
 :----------:|:-------------:|:--------:|:--------:
-<img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/4.jpeg" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/6.jpeg" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/8.jpeg" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/7.jpeg" width=300/>
+<img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/List-Menu.png" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/Booking.png" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/Detail-Transaction.png" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/History-Booking.png" width=300/>
 

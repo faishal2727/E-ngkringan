@@ -19,7 +19,7 @@ adalah aplikasi pemesanan tempat angkringan secara online yang memungkinkan peng
 ## 📷 Screen Shots
 
 Login Screen | SignUp Screen | Home Screen | Detail Screen
-:----------:|:-------------:|:--------:
+:----------:|:-------------:|:--------:|:--------:
 <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/Login%20Screen.png" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/SignUp%20Screen.png" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/Home%20Screen.png" width=300/>  | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/Detail%20Screen.png" width=300/>
 
 List-Menu Screen | Booking Screen | Detail-Transaction Screen | History-Transaction Screen

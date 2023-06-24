@@ -24,5 +24,5 @@ Login Screen | SignUp Screen | Home Screen | Detail Screen
 
 List-Menu Screen | Booking Screen | Detail-Transaction Screen | History-Transaction Screen
 :----------:|:-------------:|:--------:|:--------:
-<img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/List-Menu.png" width=400/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/Booking.png" width=400/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/Detail-Transaction.png" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/History-Booking.png" width=300/>
+<img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/List-Menu.png" width=350/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/Booking.png" width=320/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/Detail-Transaction.png" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/History-Booking.png" width=300/>
 

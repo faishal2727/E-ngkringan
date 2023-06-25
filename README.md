@@ -26,3 +26,7 @@ List-Menu Screen | Booking Screen | Detail Transaction | History Transaction
 :----------:|:-------------:|:--------:|:--------:
 <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/List-Menu.png" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/Booking.png" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/Detail-Transaction.png" width=300/> | <img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/History-Booking.png" width=300/>
 
+## :iphone: Mockup
+<p align='center'>
+<img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/engkringan.jpg" width=500/> 
+</p>

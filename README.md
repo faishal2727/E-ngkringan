@@ -28,5 +28,5 @@ List-Menu Screen | Booking Screen | Detail Transaction | History Transaction
 
 ## :iphone: Mockup
 <p align='center'>
-<img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/engkringan.jpg" width=500/> 
+<img src="https://github.com/faishal2727/E-ngkringan/blob/main/engkringan/engkringan.jpg"/> 
 </p>

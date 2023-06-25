@@ -16,7 +16,7 @@ adalah aplikasi pemesanan tempat angkringan secara online yang memungkinkan peng
 - [x] PostgreSQL
 - [x] Design Pattern Service Respository
 
-## 📷 Screen Shots
+## 📷 Screen Shots Feature
 
 Login Screen | SignUp Screen | Home Screen | Detail Screen
 :----------:|:-------------:|:--------:|:--------:
